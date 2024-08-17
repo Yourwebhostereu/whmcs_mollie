@@ -1,0 +1,14 @@
+{
+    "name": "yourwebhostereu/whmcs_mollie",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "daniel.koop",
+            "email": "daniel@yourwebhoster.eu"
+        }
+    ],
+    "require": {
+        "mollie/mollie-api-php": "^2.71"
+    }
+}
